@@ -1,7 +1,0 @@
-theme: jekyll-theme-cayman
-title: "..."
-description: ideas & projects
-logo: deepspace3.png
-markdown: kramdown
-kramdown:
-  toc_levels: 2..3
